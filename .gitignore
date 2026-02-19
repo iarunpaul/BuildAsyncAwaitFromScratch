@@ -1,0 +1,14 @@
+# Build outputs
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# .NET
+*.dll
+*.exe
+*.pdb
+
