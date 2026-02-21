@@ -4,4 +4,4 @@ Source code for the blog post walkthrough of the [Deep .NET session](https://www
 
 ## Blog post
 
-[Deep .NET: Building async/await from Scratch](https://web.iarunpaul.com/microblog/build-async-await-from-scratch/)
+[Deep .NET: Building async/await from Scratch](https://web.iarunpaul.com/blog/build-async-await-from-scratch/)
