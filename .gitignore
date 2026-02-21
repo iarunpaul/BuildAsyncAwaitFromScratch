@@ -12,3 +12,6 @@ obj/
 *.exe
 *.pdb
 
+# Claude Code
+.claude/
+
